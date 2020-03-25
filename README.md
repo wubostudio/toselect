@@ -5,10 +5,10 @@ ToSelect is a jQuery plugin which converts a &#60;select&#62; containing one or 
 The `samples/` folder contains some examples that can be used to testing. You can access more demos on the [ToSelect](https://toselect.codeinbox.net) website.
 
 **Simple Example**: 
-[https://toselect.codeinbox.net/demos/simple-01](https://toselect.codeinbox.net/demos/simple-01). 
+[https://toselect.codeinbox.net/demos/simple](https://toselect.codeinbox.net/demos/simple). 
 
 **Advanced Example**: 
-[https://toselect.codeinbox.net/demos/advanced-01](https://toselect.codeinbox.net/demos/advanced-01). 
+[https://toselect.codeinbox.net/demos/advanced](https://toselect.codeinbox.net/demos/advanced). 
 
 ## How to use
 Here is the example on how to use ToSelect on your own page.
