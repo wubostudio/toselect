@@ -100,3 +100,9 @@ $('#myToSelect').on('toselect.child.changed', function (e) {
 
 ## Road map and release notes
 See the [CHANGELOG](CHANGELOG.md) for road map and release notes.
+
+## CodeInBox
+ToSelect is a [CodeInBox](https://www.codeinbox.net) project.
+
+## License
+ToSelect is licensed under the [MIT](LICENSE) license.
