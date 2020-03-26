@@ -10,6 +10,11 @@ The `samples/` folder contains some examples that can be used to testing. You ca
 **Advanced Example**: 
 [http://toselect.codeinbox.net/demos/advanced](http://toselect.codeinbox.net/demos/advanced). 
 
+## Installation
+```HTML
+npm i toselect
+```
+
 ## How to use
 Here is the example on how to use ToSelect on your own page.
 ### Step 1: Include the ToSelect script
