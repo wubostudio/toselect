@@ -2,13 +2,13 @@
 ToSelect is a jQuery plugin which converts a &#60;select&#62; containing one or more &#60;optgroup&#62; into two chained &#60;select&#62;. 
 
 ## Examples
-The `samples/` folder contains some examples that can be used to testing. You can access more demos on the [ToSelect](http://toselect.codeinbox.net) website.
+The `samples/` folder contains some examples that can be used to testing. You can access more demos on the [ToSelect](http://toselect.csharpchina.com) website.
 
 **Simple Example**: 
-[http://toselect.codeinbox.net/demos/simple](http://toselect.codeinbox.net/demos/simple). 
+[http://toselect.csharpchina.com/demos/simple](http://toselect.csharpchina.com/demos/simple). 
 
 **Advanced Example**: 
-[http://toselect.codeinbox.net/demos/advanced](http://toselect.codeinbox.net/demos/advanced). 
+[http://toselect.csharpchina.com/demos/advanced](http://toselect.csharpchina.com/demos/advanced). 
 
 ## Installation
 ```HTML
@@ -107,7 +107,7 @@ $('#myToSelect').on('toselect.child.changed', function (e) {
 See the [CHANGELOG](CHANGELOG.md) for road map and release notes.
 
 ## CodeInBox
-ToSelect is a [CodeInBox](http://www.codeinbox.net) project.
+ToSelect is a [WuBoStudio](http://www.csharpchina.com) project.
 
 ## License
 ToSelect is licensed under the [MIT](LICENSE) license.
