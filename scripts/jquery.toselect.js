@@ -1,7 +1,7 @@
 /*!
  * --------------------------------------------------------------------------
  * ToSelect (v1.3.0): jquery.toselect.js
- * Copyright 2020 The CodeInBox (https://www.codeinbox.net)
+ * Copyright 2020 WuBoStudio
  * Licensed under MIT (https://github.com/wubostudio/toselect/blob/master/LICENSE)
  * ---------------------------------------------------------------------------
  */
